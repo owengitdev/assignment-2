@@ -59,7 +59,7 @@ class LinkedList:
 
 def waitlist_generator():
     # Create a new linked list instance
-    llist = LinkedList()
+    example_list = LinkedList()
     
     while True:
         print("\n--- Waitlist Manager ---")
@@ -74,7 +74,8 @@ def waitlist_generator():
         if choice == "1":
             name = input("Enter customer name to add to front: ")
             # Call the add_front method
-            
+            example_list.add_front("Jessica")
+            print(name)
 
         elif choice == "2":
             name = input("Enter customer name to add to end: ")

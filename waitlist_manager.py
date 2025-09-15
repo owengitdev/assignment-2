@@ -105,13 +105,21 @@ def waitlist_generator():
 '''
 Design Memo: Write Your Design Memo Include a 200–300 word response in your code or in a .txt file:
 - How does your list work?
-The list works like a system that has the data of names. You can add and remove any names if you don't want to include 
-in the list.
+
 - What role does the head play?
-Head is one of the most important role in this Python since it can help detect any type-in from the user and system
-can detect any anything that the user typed in. Head is important for analysis and letting the user to see the full 
-output. 
+
 - When might a real engineer need a custom list like this?
-If a real engineer wanted a custom list like this one, I believe that the engineer might possibly further advanced list
-than before like from normal LinkedList to the biggest list in python coding.
+
 '''
+# First Question Answer 
+# The list works like a system that has the data of names. You can add and remove any names if you don't want to include 
+# in the list.
+
+# Second Question Answer
+# Head is one of the most important roles in this Python since it can help detect any type-in from the user and system
+# can detect any anything that the user typed in. Head is important for analysis and letting the user see the full 
+# output. 
+
+# Third Question Answer
+# If a real engineer wanted a custom list like this one, I believe that the engineer might further advance list
+# than before like from normal LinkedList to the biggest list in python coding.
